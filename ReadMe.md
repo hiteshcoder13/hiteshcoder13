@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently Learning Web Development<br>Skills : HTML,CSS,JS,TAILWIND,REACT.JS,NODE.JS<br>Others : C language,Canva,Video-Editing<br>
+I am currently Learning Web Development<br>Skills : HTML,CSS,JS,TAILWIND,REACT.JS,NODE.JS,EXPRESS,firebase<br>Others : C language,Canva,Video-Editing<br>
 
 
 ## 🌐 Socials:
